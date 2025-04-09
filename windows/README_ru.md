@@ -13,10 +13,11 @@
 
 ```
 windows/
-├── clearCaches.ps1   # PowerShell-скрипт
-├── clearCaches.sh    # Bash-скрипт
+├── clearCaches.ps1      # PowerShell-скрипт
+├── clearCaches.sh       # Bash-скрипт
 ├── clearCachesWSL.sh    # Bash-скрипт для WSL
-README.md             # Документация
+├── README_ru.md         # Документация (русская версия)
+├── README_en.md         # Документация (английская версия)
 ```
 
 ---
